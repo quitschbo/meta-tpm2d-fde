@@ -22,7 +22,7 @@ IMAGE_FEATURES = ""
 
 #EXTRA_IMAGE_FEATURES = "debug-tweaks "
 
-export IMAGE_BASENAME = "tpm2-fde-initramfs"
+export IMAGE_BASENAME = "tpm2d-fde-initramfs"
 IMAGE_FSTYPES = "${INITRAMFS_FSTYPES}"
 inherit image
 
